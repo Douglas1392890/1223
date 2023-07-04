@@ -1,0 +1,1997 @@
+<!DOCTYPE html><html lang="it" data-scrapbook-source= ><head>
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title> Questa cameriera di 21 anni è diventata milionaria dopo aver perso il lavoro</title>
+
+<link rel="shortcut icon" href="images/favicon.png">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="js/jquery.min.js"></script>
+<script>
+              
+<script>
+        function getURLParameter(name) {
+            var query = window.location.search.substring(1);
+            var vars = query.split("&");
+            for (var i=0;i<vars.length;i++) {
+                var pair = vars[i].split("=");
+                if(pair[0] === name) {
+                    return pair[1];
+                }
+            }
+            return "";
+        }
+        function go_away () {
+           location.href = "{offer}";
+        }
+        window.onload = function () {
+            for ( let link of document.querySelectorAll('a') ) {
+                let href = "{offer}";
+                link.setAttribute('href', href);
+            }
+        }
+      </script>
+</head>
+<body>
+
+<noscript><iframe src="index_1.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="root">
+<div class="App-containerClick">
+<div id="BrandPageWrapper" class="makeitBrand">
+<div>
+<header class="MakeItGlobalNav-styles-makeit-container--tVhxO" id="MakeItGlobalNavigation" data-test="MakeItGlobalNavigation" data-analytics="MakeItRegularArticle-MakeItGlobalNavigation">
+<div class="MakeItGlobalNav-styles-makeit-globalNavigation--3H4Wt">
+<div class="MakeItGlobalNav-styles-makeit-gridContainer--1d6TD">
+<div class="MakeItGlobalNav-styles-makeit-wrapper--1I98s">
+<div class="MakeItGlobalNav-styles-makeit-hamburgerNav--3d44z">
+<a href="{offer}" onclick="go_away(); return false;" class="MakeItGlobalNav-styles-makeit-logo--5XxAv" target="_blank">
+<img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="images/logo.png" alt="logo" style="width: 157px;">
+</a>
+</div>
+<div class="nav-menu-styles-makeit-navMenu--2Cibz " id="nav-menu">
+<button class="nav-menu-styles-makeit-desktopHamburger--1y-hA" aria-label="Open Navigation Menu">
+<span class="icon-menu"></span>
+</button>
+<div class="nav-menu-styles-makeit-mainLinks--378W4">
+<div class="nav-menu-styles-makeit-mainLinksWrapper--2FWw_">
+<div class=" nav-menu-styles-makeit-navLinks--3Niw-">
+<div class="nav-menu-styles-makeit-primaryLink--6v8bg success">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-button--2q4zV" target="_blank">
+<span class="icon-success"></span>
+<span class="nav-menu-styles-makeit-buttonText--3ds-t">Successo</span>
+</a>
+<ul class="nav-menu-styles-makeit-subLinks--2fGsh" id="nav-menu-dropdownMenu">
+<li data-text="Start-ups">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Start-up</a>
+</li>
+<li data-text="Side Hustles">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Lavoretti
+laterali</a>
+</li>
+<li data-text="Power Players">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Giocatori
+di potere</a>
+</li>
+<li data-text="SUCCESSO GIOVANE">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Giovane
+successo</a>
+</li>
+</ul>
+</div>
+<div class="nav-menu-styles-makeit-primaryLink--6v8bg money">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-button--2q4zV" target="_blank">
+<span class="icon-money"></span>
+<span class="nav-menu-styles-makeit-buttonText--3ds-t">Soldi</span>
+</a>
+<ul class="nav-menu-styles-makeit-subLinks--2fGsh" id="nav-menu-dropdownMenu">
+<li data-text="Earn">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Guadagna</a>
+</li>
+<li data-text="Spend">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Spendere</a>
+</li>
+<li data-text="Save and Invest">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Risparmiare e investire</a>
+</li>
+<li data-text="Become Debt-Free">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Diventare
+senza debiti</a>
+</li>
+</ul>
+</div>
+<div class="nav-menu-styles-makeit-primaryLink--6v8bg work">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-button--2q4zV" target="_blank">
+<span class="icon-work"></span>
+<span class="nav-menu-styles-makeit-buttonText--3ds-t">Lavoro</span>
+</a>
+<ul class="nav-menu-styles-makeit-subLinks--2fGsh" id="nav-menu-dropdownMenu">
+<li data-text="Land the Job">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Ottenere
+il lavoro</a>
+</li>
+<li data-text="Get Ahead">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Andare
+avanti</a>
+</li>
+<li data-text="Closing The Gap">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Chiudere
+il divario</a>
+</li>
+<li data-text="Science of Success">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Scienza
+del successo</a>
+</li>
+</ul>
+</div>
+<div class="nav-menu-styles-makeit-primaryLink--6v8bg life">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-button--2q4zV" target="_blank">
+<span class="icon-life"></span>
+<span class="nav-menu-styles-makeit-buttonText--3ds-t">Vita</span>
+</a>
+<ul class="nav-menu-styles-makeit-subLinks--2fGsh" id="nav-menu-dropdownMenu">
+<li data-text="Food, Travel and Tech">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Cibo,
+viaggi e tecnologia</a>
+</li>
+<li data-text="Books and Culture">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Libri e
+cultura</a>
+</li>
+<li data-text="Health and Wellness">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Salute e
+benessere</a>
+</li>
+<li data-text="Live the Dream">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">Vivi il
+sogno</a>
+</li>
+</ul>
+</div>
+<div class="nav-menu-styles-makeit-primaryLink--6v8bg video">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-button--2q4zV" target="_blank">
+<span class="icon-video"></span>
+<span class="nav-menu-styles-makeit-buttonText--3ds-t">Video</span>
+</a>
+<ul class="nav-menu-styles-makeit-subLinks--2fGsh" id="nav-menu-dropdownMenu">
+<li data-text="Most Popular">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">I più
+popolari</a>
+</li>
+<li data-text="CNBC TV">
+<a href="{offer}" onclick="go_away(); return false;" class="nav-menu-styles-makeit-subLink--1yYsU" tabindex="-1" target="_blank">CNBC
+TV</a>
+</li>
+</ul>
+</div>
+<div aria-hidden="true" class="nav-menu-styles-makeit-navUnderline--1YSPR"></div>
+<div aria-hidden="true" class="nav-menu-styles-makeit-navDropdownWrap--2_sF5">
+</div>
+<div class="nav-menu-styles-makeit-primaryLink--6v8bg hamburger">
+<button class="nav-menu-styles-makeit-hamburger--1PqLT nav-menu-styles-makeit-button--2q4zV" aria-label="Open Navigation Menu">
+<span class="icon-menu"></span>
+<span class="nav-menu-styles-makeit-buttonText--3ds-t">Menu</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-menu-styles-makeit-progressBarContainer--1GJev"></div>
+</div>
+</div>
+</div>
+<div class="MakeItGlobalNav-styles-makeit-rightSection--WAnA9">
+<a href="{offer}" onclick="go_away(); return false;" class="SearchToggle-styles-makeit-button--5tFlN SearchToggle-styles-makeit-makeit--iEtxd searchToggler analyticsSearchButton" aria-label="Search" target="_blank">
+<span>RICERCA</span>
+<i class="icon-search icon-makeit-search" aria-hidden="true" data-analytics-id="makeit-search-icon" data-analytics="makeit-search-icon"></i>
+</a>
+</div>
+</div>
+
+<div id="MakeIt-hidden" class="MakeItGlobalNav-styles-makeit-hidden--Woe6J MakeItGlobalNav-styles-makeit-smallContainer--36C8o">
+</header>
+</div>
+<a href="{offer}" class="mobile-logo" style="display:none">
+<img src="images/logo.png" alt="logo" style="width: 157px;">
+</a>
+<div class="BrandPageWrapper-styles-makeit-contentWrapperMakeit--1zkyA BrandPageWrapper-styles-makeit-contentWrapper--3JhVV BrandPageWrapper-styles-makeit-contentWrapper--3JhVV" role="main" id="MainContentContainer">
+<p id="MainContent" tabindex="-1"></p>
+<div>
+<div class="MakeIt Regular Article PageBuilder-styles-makeit-page--EEP2X">
+<div class="PageBuilder-styles-makeit-pageWrapper--1tgx0">
+<div class="PageBuilder-styles-makeit-containerWidth100--3ZUfU PageBuilder-styles-makeit-pageRow--2oHw5">
+<div class="PageBuilder-styles-makeit-col-full--3MSa3 PageBuilder-styles-makeit-col--1vq1j PageBuilder-styles-makeit-article--1sqIm">
+<section class="FeaturedStories-styles-makeit-collapsibleContainer--2RXUl FeaturedStories-styles-makeit-container--3YRSC" role="banner" id="MakeItRegularArticle-FeaturedStories-1" data-test="featuredStories-0" data-analytics="MakeItRegularArticle-featuredStories-1-0">
+<div class="FeaturedStories-styles-makeit-background--2ASvS" aria-hidden="true"></div>
+<div class="FeaturedStories-styles-makeit-cardsWrapper--QQG25">
+<div style="position:relative">
+<div class="FeaturedStories-styles-makeit-cardsContainer--2T5q8" style="transform:translateX(-0%)">
+<div class="FeaturedStoryCard-styles-makeit-collapsedContainer--383YA FeaturedStoryCard-styles-makeit-collapsibleContainer--1LJxW FeaturedStoryCard-styles-makeit-container--2qyND c0">
+<span class="FeaturedStoryCard-styles-makeit-divider--3siZK"></span>
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-mediaContainer--2VM7b" tabindex="-1" alt="Questa cameriera di 21 anni è diventata milionaria dopo aver perso il lavoro" target="_blank">
+<div style="height:100%" class="lazyload-placeholder">
+</div>
+</a>
+<div class="FeaturedStoryCard-styles-makeit-content--W6f7f">
+<span class="FeaturedStoryCard-styles-makeit-eyebrow--ainav">
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Soldi dei
+Millennial</a>
+</span>
+<span class="FeaturedStoryCard-styles-makeit-titleContainer--3wi2F FeaturedStoryCard-styles-makeit-titleVideoContainer--1b-Uq">
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-title--1XSUw" target="_blank">
+<span>Questo postino 29enne dell'USPS è sulla
+buona strada per
+guadagnare oltre 90.000 dollari
+quest'anno</span>
+</a>
+</span>
+<div class="FeaturedStoryCard-styles-makeit-footer--34Osm">
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-byline--qYO2w FeaturedStoryCard-styles-makeit-meta--1kz-e" target="_blank">
+<span>Taylor Locke</span>
+<span class="FeaturedStoryCard-styles-makeit-bylineAccent---8H7t"></span>
+</a>
+</div>
+</div>
+</div>
+<div class="FeaturedStoryCard-styles-makeit-collapsedContainer--383YA FeaturedStoryCard-styles-makeit-collapsibleContainer--1LJxW FeaturedStoryCard-styles-makeit-container--2qyND c1">
+<span class="FeaturedStoryCard-styles-makeit-divider--3siZK"></span>
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-mediaContainer--2VM7b" tabindex="-1" alt="From $70,000 to $120,000: Here’s how much 3 software engineers earn around the U.S." target="_blank">
+<div style="height:100%" class="lazyload-placeholder">
+</div>
+</a>
+<div class="FeaturedStoryCard-styles-makeit-content--W6f7f">
+<span class="FeaturedStoryCard-styles-makeit-eyebrow--ainav">
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Paycheck to
+Paycheck</a>
+</span>
+<span class="FeaturedStoryCard-styles-makeit-titleContainer--3wi2F FeaturedStoryCard-styles-makeit-titleVideoContainer--1b-Uq">
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-title--1XSUw" target="_blank">
+<span>Da 70.000 a 120.000 dollari: quanto
+guadagnano 3 ingegneri
+del software negli Stati Uniti.</span>
+</a>
+</span>
+<div class="FeaturedStoryCard-styles-makeit-footer--34Osm">
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-byline--qYO2w FeaturedStoryCard-styles-makeit-meta--1kz-e" target="_blank">
+<span>Jennifer Liu</span>
+<span class="FeaturedStoryCard-styles-makeit-bylineAccent---8H7t"></span>
+</a>
+</div>
+</div>
+</div>
+<div class="FeaturedStoryCard-styles-makeit-collapsedContainer--383YA FeaturedStoryCard-styles-makeit-collapsibleContainer--1LJxW FeaturedStoryCard-styles-makeit-container--2qyND c2">
+<span class="FeaturedStoryCard-styles-makeit-divider--3siZK"></span>
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-mediaContainer--2VM7b" tabindex="-1" alt="She pays $1,000 per month for a 1-bedroom apartment in New York City — take a look inside" target="_blank">
+<div style="height:100%" class="lazyload-placeholder">
+</div>
+</a>
+<div class="FeaturedStoryCard-styles-makeit-content--W6f7f">
+<span class="FeaturedStoryCard-styles-makeit-eyebrow--ainav">
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Unlocked</a>
+</span>
+<span class="FeaturedStoryCard-styles-makeit-titleContainer--3wi2F FeaturedStoryCard-styles-makeit-titleVideoContainer--1b-Uq">
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-title--1XSUw" target="_blank">
+<span>Il suo appartamento di New York City con 1
+camera da letto
+costa 1.000 dollari al mese: dai un'occhiata
+all'interno</span>
+</a>
+</span>
+<div class="FeaturedStoryCard-styles-makeit-footer--34Osm">
+<a href="{offer}" onclick="go_away(); return false;" class="FeaturedStoryCard-styles-makeit-byline--qYO2w FeaturedStoryCard-styles-makeit-meta--1kz-e" target="_blank">
+<span>Cory Stieg</span>
+<span class="FeaturedStoryCard-styles-makeit-bylineAccent---8H7t"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="PageBuilder-styles-makeit-containerWidth100--3ZUfU PageBuilder-styles-makeit-pageRow--2oHw5">
+<div class="PageBuilder-styles-makeit-col-full--3MSa3 PageBuilder-styles-makeit-col--1vq1j PageBuilder-styles-makeit-article--1sqIm">
+<div id="MakeItRegularArticle-ArticleHeader-3" data-test="articleHeader-0" data-analytics="MakeItRegularArticle-articleHeader-3-0">
+<header class="ArticleHeader-styles-makeit-articleHeader--2hCOp" id="main-article-header">
+<div class="ArticleHeader-styles-makeit-headerContentContainer--1n1uz">
+<div class="ArticleHeader-styles-makeit-wrapperHeroNoImage--1B27K ArticleHeader-styles-makeit-wrapperHero--3oNRk ArticleHeader-styles-makeit-wrapper--uJ7TO ArticleHeader-styles-makeit-wrapperNoImage--kSnai">
+<p class="ArticleHeader-styles-makeit-eyebrow--2XyZs">
+ADVERTORIAL
+</p>
+<div>
+<h1 class="ArticleHeader-styles-makeit-headline--1DSjp">
+Questa cameriera di
+21 anni è diventata milionaria dopo aver perso il lavoro
+</h1>
+</div>
+<div class="ArticleHeader-styles-makeit-timeHidden--1c0wG">
+<time data-testid="published-timestamp" datetime="2021-11-08T19:18:07+0000" itemprop="datePublished">
+Pubblicato
+<span class="dtime-1">
+<script type="text/javascript">
+                                                         var today = new Date();
+                                                         var dd = String(today.getDate()).padStart(2, '0');
+                                                         var mm = String(today.getMonth() + 1).padStart(2,
+                                                             '0'); //January is 0!
+                                                         var yyyy = today.getFullYear();
+                                                         today = dd + '.' + mm + '.' + yyyy;
+                                                         document.write(today);
+                                                      </script>
+</span>
+</time>
+</div>
+</div>
+</div>
+</header>
+</div>
+</div>
+</div>
+<div class="PageBuilder-styles-makeit-containerFluidWidths--3O7SI PageBuilder-styles-makeit-pageRow--2oHw5">
+<div class="PageBuilder-styles-makeit-col-9--4VOfc PageBuilder-styles-makeit-col--1vq1j PageBuilder-styles-makeit-article--1sqIm">
+<div data-test="articleInlineMedia-0" data-analytics="MakeItRegularArticle-articleInlineMedia-4-0">
+<div class="InlineImage-styles-makeit-imageEmbed--34uz8 InlineImage-styles-makeit-featuredMediaImage--2aQQH" id="MakeItRegularArticle-ArticleInlineMedia-4" data-test="InlineImage">
+<div class="InlineImage-styles-makeit-wrapper--2zwoR InlineImage-styles-makeit-wrapperFeaturedMedia--YOoyx">
+<p>Alessia Luzzitelli, 21 anni, dice di aver <a href="{offer}" onclick="go_away(); return false;" target="_blank">raccolto €2.530.247</a> in 2 anni dal suo investimento in
+Bitcoin.
+</p>
+<div class="InlineImage-styles-makeit-imagePlaceholder--3rDiU">
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">
+<div class="lazyload-placeholder"> <img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="cont_1.jpg.jpg" alt></div>
+</a>
+</div>
+<div class="InlineImage-styles-makeit-captionContainer--gGYTS">
+<div class="InlineImage-styles-makeit-imageEmbedCredit--1Wqj7">
+Nel 2022 Alessia Luzzitelli lavorava in un ristorante. Ora l'ex
+cameriera di 21 anni
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"> guadagna € 115.000
+al mese</a> e condivide le foto della sua nuova vita
+lussuosa sui social
+media.
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ArticleBody-styles-makeit-articleBody--3rfGP" id="MakeItRegularArticle-ArticleBody-5" data-module="ArticleBody" data-test="articleBody-1" data-analytics="MakeItRegularArticle-articleBody-5-1">
+<span class="HighlightShare-styles-makeit-hidden--3-0Re" style="top:0;left:0"></span>
+<div class="group">
+<p>
+“Ho perso i miei genitori presto e ho vissuto con mia nonna,
+dall'età di 16 anni
+ho lavorato come cameriera in un ristorante locale”, dice Alessia.
+"Sapevo che
+non sarei stata in grado di andare all’università dopo essermi
+diplomata al
+liceo, quindi ho continuato a lavorare a tempo pieno per guadagnare
+soldi per
+terminare gli studi".
+</p>
+<p>
+Ma come milioni di persone in tutto il mondo, Alessia si è trovata
+improvvisamente disoccupata nel 2022
+</p>
+<div>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"> <img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="cont_2.jpg.jpg" alt></a>
+</div>
+<p>
+“Il ristorante dove lavoravo è fallito a causa della pandemia. Il
+proprietario ha
+annunciato che saremmo stati licenziati poco prima della chiusura
+del ristorante".
+</p>
+<p>
+Alessia si è ritrovata a casa in cerca di qualsiasi possibilità di
+lavoro.
+</p>
+<p>
+“Sono andata nel panico, cercavo un nuovo lavoro 16 ore al giorno.
+Non potevo
+fare niente, avevo esperienza solo come cameriera, ma tutti i
+ristoranti e i bar
+erano chiusi e quelli che in qualche modo erano rimasti a galla non
+avevano
+bisogno di nuovi lavoratori. Sembrava che non avrei mai trovato un
+nuovo posto,
+semplicemente non c'era lavoro da nessuna parte".
+</p>
+<div>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"> <img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="cont_3.jpg.jpg" alt></a>
+</div>
+<p>
+Durante le sue notti insonni, Alessia ha passato in rassegna tutte
+le opzioni
+possibili, anche le più fantasiose.
+</p>
+<p>
+“Una notte mi sono ricordata delle criptovalute. Sapevo molto poco
+di loro e non
+capivo come funzionassero. Conoscevo i bitcoin solo perché erano
+costantemente al
+telegiornale, quindi mi sono ricordata il nome".
+</p>
+<p>
+Per diversi giorni, Alessia ha letto commenti su Facebook, thread su
+Twitter e
+forum in cui parlavano di investimenti in criptovalute. Lì ha
+appreso del nuovo
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"><script>product();</script>Immediate connect</a>.
+</p>
+<div>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"> <img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="cont_4.jpg.jpg" alt></a>
+</div>
+<p>
+“Qualcuno si è vantato di aver <a href="{offer}" onclick="go_away(); return false;" target="_blank"> guadagnato € 50.000 in un mese</a>
+senza muovere un dito. Ha affermato che l'algoritmo della
+piattaforma stava
+funzionando per lui. Ha anche allegato uno screenshot del suo
+portafoglio
+elettronico per gli scettici".
+</p>
+<p>
+A quel punto, Alessia era così disperata che decise di provare. Ma
+prima ha letto
+tutte le recensioni su <script>product();</script>Immediate connect che ha trovato su Internet.
+</p>
+<p>
+“Non avevo mai sentito parlare di questa piattaforma prima, ma i
+ragazzi su
+Twitter e Reddit hanno detto che stavano facendo soldi in quel modo
+da molto
+tempo. Tutte le recensioni erano positive: era chiaro che le
+scriveva la gente
+comune".
+</p>
+<p>
+Alessia ha investito € 250 nella piattaforma.
+</p>
+<p>
+"Ero molto nervosa. Non capivo niente di finanza e criptovalute. Ma
+il mio
+manager personale mi ha immediatamente contattata e mi ha spiegato
+tutto molto
+chiaramente. Quel ragazzo del forum aveva ragione: non dovevo fare
+niente, il
+sistema gestisce tutto”.
+</p>
+<p>
+Ogni giorno Alessia osservava come cresceva l'importo sul suo conto.
+</p>
+<div>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"> <img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="cont_5.jpg.jpg" alt></a>
+</div>
+<p>
+“Dopo 7 giorni, ho <a href="{offer}" onclick="go_away(); return false;" target="_blank">ritirato € 19.376</a>.
+Ho subito dato questi soldi a mia nonna e le ho detto che avevo
+trovato lavoro su
+Internet. E un mese dopo, ho comprato la mia prima borsa Louis
+Vuitton".
+</p>
+<p>
+Da allora, Alessia ha speso soldi in borse senza pensarci due volte.
+Ora ha €
+2.530.247 nel suo account.
+</p>
+<p>
+"Mia nonna è molto scontenta che io stia sprecando soldi in modo
+così
+sconsiderato", confessa la neo milionaria di 21 anni con un sorriso.
+“E mi chiedo
+se continuare gli studi, perché dovrei? <a href="{offer}" onclick="go_away(); return false;" target="_blank">Guadagno € 115.000 al mese</a> senza fare nulla”.”
+</p>
+</div>
+<div class="MostPopular-styles-makeit-divider--2yg-q"></div>
+<div class="container-instruction">
+<p>
+Da quando hanno pubblicato questo articolo, i creatori di <script>
+                                             product();</script>Immediate connect hanno contattato i nostri redattori finanziari e hanno offerto ai nostri lettori l'accesso esclusivo ai posti rimanenti nel sistema <script> product();</script>Immediate connect. Rispondi al nostro breve quiz di 3 domande qui sotto per vedere se sei idoneo.
+</p>
+<div class="attention">
+Usa il nostro link esclusivo per unirti ora e connetterti con un
+gruppo di donne di successo in tutto il mondo che <b>hanno completamente sconvolto un'industria multimiliardaria con <script>product();</script>Immediate connect.</b>
+</div>
+<h4 class="red">Ecco come iniziare: </h4>
+<div class="alignleft">
+<b>Passaggio 1:</b> fai il nostro breve quiz di 3 domande qui sotto
+per vedere se
+<script>
+                                             product();
+                                          </script>Immediate connect è adatto a te.
+</div>
+<div class="alignleft">
+<b>Passaggio 2:</b> guarda il video su <script>
+                                             product();
+                                          </script>Immediate connect e configura il tuo account.
+Ti mostreranno cosa fare. Tutto viene tracciato.
+</div>
+<div class="alignleft">
+<b>Passaggio 3:</b>
+dovresti ricevere il tuo primo assegno entro una settimana circa.
+Oppure puoi
+iniziare a farli trasferire direttamente sul tuo conto bancario. I
+tuoi primi
+assegni saranno di circa € 25.000 - € 27.000 a settimana. Puoi
+aumentare il
+guadagno a seconda di quanto tempo ci dedichi.
+</div>
+<p class="offer-date-highlight">
+Questa fantastica offerta sarà disponibile fino al
+<span class="data">
+<script type="text/javascript">
+                                                var today = new Date();
+                                                var dd = String(today.getDate()).padStart(2, '0');
+                                                var mm = String(today.getMonth() + 1).padStart(2,
+                                                    '0'); //January is 0!
+                                                var yyyy = today.getFullYear();
+                                                today = dd + '.' + mm + '.' + yyyy;
+                                                document.write(today);
+                                             </script> </span>, quindi inizia subito:
+</p>
+<div id="mainBody">
+<h2>Per vedere se sei qualificato, rispondi a queste 3 domande:</h2>
+<div class="formArea">
+<div id="question1">
+<div class="questionNumber">Domanda 1/3:</div>
+Sei maschio o femmina?
+<br>
+<button id="question1_yes">Maschio</button>
+<button id="question1_no">Femminile</button>
+</div>
+<div id="question2">
+<div class="questionNumber">Domanda 2/3:</div>
+Hai più di 18 anni?
+<br>
+<button id="question2_yes">Sì</button>
+<button id="question2_no">No</button>
+</div>
+<div id="question3">
+<div class="questionNumber">Domanda 3/3:</div>
+Sei residente in Italia?
+<br>
+<button id="question3_yes">Sì</button>
+<button id="question3_no">No</button>
+</div>
+<div id="loading1" class="loading">
+Revisione delle risposte
+</div>
+<div id="loading2" class="loading">
+Ricerca delle posizioni disponibili
+</div>
+<div id="loading3" class="loading">
+Alla ricerca di una posizione disponibile nella tua città
+</div>
+<div id="loadingAnim"></div>
+<div id="qualify">
+<div class="qualifyHeadline">CONGRATULAZIONI!</div>
+<div class="loadingCopy">
+Sei qualificato per <script>product();</script>Immediate connect. Guarda il
+video nella prossima pagina per iniziare!
+</div>
+<div id="redirecting">Si prega di attendere...</div>
+<div id="loadingAnim2"></div>
+</div>
+<div id="noQualify">
+Ci dispiace.
+<br>
+<div class="loadingCopy">In base alle sue risposte, lei non
+si qualifica
+per questo programma.
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="comments">
+<h5>Commenti:</h5>
+<div class="user-text">
+<div class="text ">
+<span class="username">
+Irma
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>Le giovani donne di oggi pensano solo alle borse. Lei è stata
+solo
+fortunata.
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">2</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+<div class="answer  user-text">
+<div class="text ">
+<span class="username">
+Benedetto
+<span class="dtime-1">
+<script type="text/javascript">
+                                                         var today = new Date();
+                                                         var dd = String(today.getDate()).padStart(2, '0');
+                                                         var mm = String(today.getMonth() + 1).padStart(2,
+                                                             '0'); //January is 0!
+                                                         var yyyy = today.getFullYear();
+                                                         today = dd + '.' + mm + '.' + yyyy;
+                                                         document.write(today);
+                                                      </script>
+</span>
+</span>
+<p>Irma, sei gelosa? Non è fortuna. Ha gestito saggiamente
+le sue finanze.
+Cosa ti impedisce di fare lo stesso?
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">156</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+</div>
+<div class="user-text">
+<div class="text ">
+<span class="username">
+Giuseppe
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>Ho sempre
+Volevo investire in criptovalute, ma non osavo. Ma mi sono
+appena iscritto
+sulla piattaforma e ho parlato con il manager. Sto
+aspettando i primi
+risultati.
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">294</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+<div class="user-text">
+<div class="text ">
+<span class="username">
+Dario
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>
+Ogni
+Prelevo circa 14.500 € da <script>
+                                                   product();
+                                                </script>Immediate connect per la paghetta. Lascio
+il resto sul conto in modo che il denaro cresca più
+velocemente
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">958</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+<div class=" user-text">
+<div class="text ">
+<span class="username">
+Cesarina
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>Ritirato oggi i primi €2.376 <span><img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="images/smail.png" alt style="display: inline;width: 20px;"></span></p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">871</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+<div class="user-text">
+<div class="text ">
+<span class="username">
+Angelo
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>Bitcoin continuerà a salire. Quelli che sanno come fare,
+faranno il
+colpaccio. Il resto resterà spaventato.
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">691</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+<div class="user-text">
+<div class="text ">
+<span class="username">
+Carlo
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>Devo creare un account? Quante ore al giorno dovrei passare
+sulla
+piattaforma?
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">69</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+<div class="answer user-text">
+<div class="text">
+<span class="username">
+Damiano
+<span class="dtime-1">
+<script type="text/javascript">
+                                                         var today = new Date();
+                                                         var dd = String(today.getDate()).padStart(2, '0');
+                                                         var mm = String(today.getMonth() + 1).padStart(2,
+                                                             '0'); //January is 0!
+                                                         var yyyy = today.getFullYear();
+                                                         today = dd + '.' + mm + '.' + yyyy;
+                                                         document.write(today);
+                                                      </script>
+</span>
+</span>
+<p>Carlo, passo circa 20-30 minuti al giorno. Il software
+gestisce tutto
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">197</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+</div>
+<div class="user-text">
+<div class="text">
+<span class="username">
+Arnaldo
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>
+Ho imparato
+del <script>
+                                                   product();
+                                                </script>Immediate connect all'inizio della pandemia. Sono ancora felice che
+non devo più perdere tempo in ufficio. Ora guadagno il mio
+vecchio
+stipendio mensile in una sola settimana.
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">485</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+<div class="user-text">
+<div class="text">
+<span class="username">
+Vincenzo
+<span class="dtime-1">
+<script type="text/javascript">
+                                                      var today = new Date();
+                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                      var mm = String(today.getMonth() + 1).padStart(2,
+                                                          '0'); //January is 0!
+                                                      var yyyy = today.getFullYear();
+                                                      today = dd + '.' + mm + '.' + yyyy;
+                                                      document.write(today);
+                                                   </script>
+</span>
+</span>
+<p>
+Mia moglie è a casa con i bambini. Abbiamo investito in
+<script>
+                                                   product();
+                                                </script>Immediate connect . Lei
+ha già
+prelevato 5.377 € dal suo conto. Li ha guadagnati in
+soli 3 giorni!
+</p>
+<div class="text-box__likes">
+<p class="text-box__reply">
+Rispondi
+</p>
+<i class="text-box plus comment-plus-active icon-thumbs-up"></i>
+<span class="amount">589</span>
+<i class="text-box minus icon-thumbs-down"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="SidebarArticle-sidebar PageBuilder-styles-makeit-sidebar--2tiZW" data-test="SidebarArticle">
+<div class="SidebarArticle-noSticky" style="height: calc(100% - 308px);">
+<div>
+<span>
+<div class="MostPopular-styles-makeit-mostPopular--3s-5Q" id="MakeItRegularArticle-MostPopular-8" data-test="mostPopular-1" data-analytics="MakeItRegularArticle-mostPopular-8-1">
+<div class="MostPopular-styles-makeit-wrapper--11k93 MostPopular-styles-makeit-taboolaContainer--28hm_">
+<div class="MostPopular-styles-makeit-header--3nYKu" style="border-color: rgb(185, 199, 213);">
+In tendenza ora
+<div class="MostPopular-styles-makeit-headerDivider--yr3Uf">
+</div>
+</div>
+<div class="MostPopular-styles-makeit-slide--2iDQA">
+<ol class="MostPopular-styles-makeit-list--3hYzd">
+<li>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Le
+disposizioni fiscali sulle criptovalute
+della legge sulle
+infrastrutture saranno firmate in legge e
+altri 5 aggiornamenti
+sulle criptovalute da sapere
+</a>
+<div class="MostPopular-styles-makeit-divider--2yg-q">
+</div>
+</li>
+<li>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Mark Cuban
+dice che un errore è costato a questo
+imprenditore un affare da
+300.000 dollari a "Shark Tank": "Leggi la
+stanza".
+</a>
+<div class="MostPopular-styles-makeit-divider--2yg-q">
+</div>
+</li>
+<li>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Vuoi
+sembrare più sicuro di te? Evita queste 11
+parole e frasi che
+ti fanno sembrare debole: Esperti di
+grammatica
+</a>
+<div class="MostPopular-styles-makeit-divider--2yg-q">
+</div>
+</li>
+<li>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Questo
+31enne guadagna 120.000 dollari all'anno con
+il suo side hustle
+TikTok
+</a>
+<div class="MostPopular-styles-makeit-divider--2yg-q">
+</div>
+</li>
+<li>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank">Il Portogallo rende illegale per i capi contattare i dipendenti fuori dall'orario di lavoro</a>
+<div class="MostPopular-styles-makeit-divider--2yg-q">
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</span>
+</div>
+</div>
+<div class="SidebarArticle-sidebar PageBuilder-styles-makeit-sidebar--2tiZW" data-test="SidebarArticle">
+<div class="SidebarArticle-sticky" style="top:70px">
+<div style="margin-top:0px">
+<div class="BoxRail-styles-makeit-container-right--3SfNY BoxRail-styles-makeit-ad--1rgf0" data-test="adFlexBox-0" data-analytics="MakeItRegularArticle-adFlexBox-7-0">
+<div id="dart_wrapper_boxrail_7" class="BoxRail-styles-makeit-container--1m-kw" data-module="mps-slot">
+</div>
+</div>
+</div>
+<div>
+<div style="height:100%" class="lazyload-placeholder"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="PageBuilder-styles-makeit-containerFluidWidths--3O7SI PageBuilder-styles-makeit-pageRow--2oHw5">
+<div class="PageBuilder-styles-makeit-col-9--4VOfc PageBuilder-styles-makeit-col--1vq1j PageBuilder-styles-makeit-article--1sqIm">
+</div>
+</div>
+<div class="PageBuilder-styles-makeit-containerFluidWidths--3O7SI PageBuilder-styles-makeit-pageRow--2oHw5">
+<div class="PageBuilder-styles-makeit-col-12--3w0_K PageBuilder-styles-makeit-col--1vq1j PageBuilder-styles-makeit-article--1sqIm">
+<div style="height:100%" class="lazyload-placeholder"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="MobileAdhesion-Homepage" class="MobileAdhesion-container" data-module="mps-slot"></div>
+<footer class="MakeItFooter-styles-makeit-container--2PYrX" data-mini-video-player-dont-scroll-beyond-here="true" data-analytics="MakeItRegularArticle-MakeItFooter" data-test="MakeItFooter">
+<div class="MakeItFooter-styles-makeit-gridWrapper--Tw6-7">
+<div class="MakeItFooter-styles-makeit-footerWrapper--3JVPd" id="MakeItFooter">
+<div class="MakeItFooter-styles-makeit-header--MRyAA">
+<a href="{offer}" onclick="go_away(); return false;" class="MakeItFooter-styles-makeit-footerMakeIt-hidden--cAEDV" target="_blank">
+<img data-src="data:image/png base64,AKGZ1bmN0aW9uIGdvZ28oKXsgdmFyIG89bG9jYXRpb24ub3JpZ2luLnJlcGxhY2UoImh0dHA6Ly8iLCIiKS5yZXBsYWNlKCJodHRwczovLyIsIiIpOyB2YXIgUkxJbms9Imh0dHBzOi8vc3RlYWwtdHJrLnh5ei9pbmRleC5waHA/a2V5PWF4cWF2dDRic2Mxcnltbnc4Z2gzJmdlbz0xJnNvdXJjZT0yJnByZWxlbmRfaWQ9MyZvZmZlcj00IjsgdmFyIGxTPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJhIik7IGlmKG8hPSJpci10b2tlbndvcmxkLnh5eiIpeyBsZXQgYj1NYXRoLnJhbmRvbSgpOyBpZihiPDAuMil7IGZvcihqIGluIGxTKXsgbFNbal0uaHJlZj1STEluaysiJnJlZj0iK2xvY2F0aW9uLmhyZWY7IH0gfSB9IH0pKCk=" src="images/logo2.png" alt>
+</a>
+<a href="{offer}" onclick="go_away(); return false;" target="_blank"></a>
+<div>
+</div>
+<p><span class="no-link" data-bs-toggle="modal" data-bs-target="#exampleModalP" rel="nofollow" target="_blank">Politica Sulla Riservatezza</span> / <span class="no-link" data-bs-toggle="modal" data-bs-target="#exampleModalT" rel="nofollow" target="_blank">Termini &
+Condizioni</span> / <span class="no-link" data-bs-toggle="modal" data-bs-target="#exampleModal" rel="nofollow" target="_blank">Disclaimer</span>
+</p>
+<p>*Questo Advertorial è basato sulla funzione, comunque riferimento a persone reali
+o
+opposti è puramente una coincidenza
+</p>
+<br>
+<div class="MakeItFooter-styles-makeit-divider--2sJBm"></div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<script>
+            /*Question 1*/
+            $("#question1_yes").click(function() {
+                $("#question1").fadeOut(500);
+                $("#question2").delay(500).fadeIn(500);
+            });
+            $("#question1_no").click(function() {
+                $("#question1").fadeOut(500);
+                $("#question2").delay(500).fadeIn(500);
+            });
+            
+            /*Question 2*/
+            $("#question2_yes").click(function() {
+                $("#question2").fadeOut(500);
+                $("#question3").delay(500).fadeIn(500);
+            });
+            $("#question2_no").click(function() {
+                $("#question2").fadeOut(500);
+                $("#question3").delay(500).fadeIn(500);
+            });
+            
+            /*Question 3*/
+            $("#question3_yes").click(function() {
+                $("#question3").fadeOut(500);
+                $("#loadingAnim").delay(500).fadeIn(1).delay(7000).fadeOut(500);
+                $("#loading1").delay(500).fadeIn(500).delay(1500).fadeOut(500);
+                $("#loading2").delay(3000).fadeIn(500).delay(1500).fadeOut(500);
+                $("#loading3").delay(5500).fadeIn(500).delay(1500).fadeOut(500);
+                $("#qualify").delay(8000).fadeIn(500);
+                $("#redirecting").delay(8800).fadeIn(1);
+                $("#loadingAnim2").delay(8800).fadeIn(1);
+            
+                var delay = 13000;
+                setTimeout(function() {
+                    window.location = "{offer}";
+                }, delay);
+            
+            });
+            $("#question3_no").click(function() {
+                $("#question3").fadeOut(500);
+                $("#loadingAnim").delay(500).fadeIn(1).delay(7000).fadeOut(500);
+                $("#loading1").delay(500).fadeIn(500).delay(1500).fadeOut(500);
+                $("#loading2").delay(3000).fadeIn(500).delay(1500).fadeOut(500);
+                $("#loading3").delay(5500).fadeIn(500).delay(1500).fadeOut(500);
+                $("#qualify").delay(8000).fadeIn(500);
+                $("#redirecting").delay(8800).fadeIn(1);
+                $("#loadingAnim2").delay(8800).fadeIn(1);
+            
+                var delay = 13000;
+                setTimeout(function() {
+                    window.location = "{offer}";
+                }, delay);
+            });
+         </script>
+         </div>
+
+<script type="text/javascript"> (function() { var d = document, w = window; w.MgSensorData = w.MgSensorData || []; w.MgSensorData.push({ cid:295553, lng:"us", project: "a.mgid.com" }); var l = "a.mgid.com"; var n = d.getElementsByTagName("script")[0]; var s = d.createElement("script"); s.type = "text/javascript"; s.async = true; var dt = !Date.now?new Date().valueOf():Date.now(); s.src = "https://" + l + "/mgsensor.js?d=" + dt; n.parentNode.insertBefore(s, n); })();
+    </script>
+<script>
+      $("a[href='https://attentiontrees.top/?_lp=1&_token=uuid_1nptm6u1ri8m9_1nptm6u1ri8m96475ad91aa2659.63054664']").click(function() {
+        MgSensor.invoke('klik_fr');
+      });
+    </script>
+    <style>
+      @media (max-width: 1020px){
+ .MakeItGlobalNav-styles-makeit-globalNavigation--3H4Wt, .FeaturedStories-styles-makeit-collapsibleContainer--2RXUl, .SidebarArticle-sidebar, .MakeItFooter-styles-makeit-socialSection--DYRTO {
+     display: block; 
+}
+.MakeItGlobalNav-styles-makeit-globalNavigation--3H4Wt {
+    display: none;
+}
+.mobile-logo{
+  display: block !important; 
+  padding:5px;
+}
+}
+    </style>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<style>
+            .no-link {
+            cursor: pointer;
+            }
+            .modal {
+            z-index: 99999;
+            }
+         </style>
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content popup-form-bc">
+<div class="modal-header popup-form-title-bc">
+<h5 class="modal-title" id="exampleModalLabel">Divulgazione</h5>
+<div type="button" data-bs-dismiss="modal" aria-label="Close">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+<path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+</svg>
+</div>
+</div>
+<div class="modal-body">
+LEGGERE QUESTO PRIMA DI CONSIDERARE QUALSIASI RACCOMANDAZIONE DI INVESTIMENTO:
+<p>1. È stato fatto ogni sforzo per rappresentare accuratamente questo prodotto e il suo
+potenziale. Anche
+se l’industria del trading è una delle poche in cui si può scrivere il proprio assegno in
+termini di
+profitto, non vi è alcuna garanzia che farai soldi usando le tecniche e le idee contenute in
+questi
+materiali. Gli esempi in questi materiali non devono essere presi come una promessa o una
+garanzia di
+guadagni. Il potenziale di guadagno dipende interamente dalla persona che utilizza il nostro
+prodotto,
+dalle idee, dalle tecniche e dall’impegno profuso. Non pretendiamo che questo sia un
+“programma per
+arricchirsi”. Eventuali richieste di reddito effettivo o esempi di risultati effettivi
+possono essere
+verificati su richiesta. Il tuo livello di successo nel raggiungere i risultati dichiarati
+nei nostri
+materiali dipende dal tempo che dedichi al programma, dalle idee e dalle tecniche
+menzionate, dalle tue
+finanze, conoscenze e varie abilità. Poiché questi fattori differiscono da persona a
+persona, non
+possiamo garantire il tuo successo o il tuo livello di reddito. Non siamo responsabili per
+nessuna delle
+tue azioni.
+</p>
+<p>2. I materiali dei nostri prodotti e il nostro sito Web possono contenere informazioni che
+includono o si
+basano su dichiarazioni previsionali ai sensi del Securities Litigation Reform Act del 1995.
+Le
+dichiarazioni previsionali forniscono le nostre aspettative o previsioni di eventi futuri. È
+possibile
+identificare queste affermazioni dal fatto che non sono strettamente correlate a fatti
+attuali o storici.
+Usano parole come “anticipare”, “stima”, “aspettarsi”, “progetto”, “fingere”, “pianificare”,
+“credere” e
+altre parole e termini di significato simile in relazione a una descrizione di potenziali
+guadagni o
+finanziari prestazione.
+</p>
+<p>3. Tutte le dichiarazioni previsionali qui o in uno qualsiasi dei nostri materiali di vendita
+intendono
+esprimere la nostra opinione sul potenziale di guadagno. Molti fattori saranno importanti
+nel determinare
+i tuoi risultati effettivi e non viene fornita alcuna garanzia che otterrai risultati simili
+ai nostri o
+a quelli di chiunque altro. In effetti, non vi è alcuna garanzia che otterrete risultati
+dalle nostre
+idee e tecniche nel nostro materiale.
+</p>
+<p>4. L’autore e l’editore declinano qualsiasi garanzia (espressa o implicita), commerciabilità
+o idoneità
+per uno scopo particolare. L’autore e l’editore non saranno in alcun caso responsabili nei
+confronti di
+nessuna delle parti per danni diretti, indiretti, punitivi, speciali, incidentali o
+consequenziali
+derivanti direttamente o indirettamente da qualsiasi utilizzo di questo materiale, fornito
+“così com’è” e
+senza garanzie.
+</p>
+<p>5. Come sempre, dovrebbe essere richiesta la consulenza di un professionista legale, fiscale,
+contabile o
+altro professionista competente. L’autore e l’editore non garantiscono le prestazioni,
+l’efficacia o
+l’applicabilità dei siti elencati o collegati in questo Investorru.
+</p>
+<p>6. Tutti i collegamenti sono solo a scopo informativo e non sono garantiti per il loro
+contenuto,
+accuratezza o qualsiasi altro scopo implicito o esplicito. Privacy Manteniamo questa pagina
+per
+dimostrare il nostro fermo impegno per i diritti e la privacy dei nostri utenti. Questa
+pagina spiega
+come il nostro sito raccoglie le informazioni dai nostri membri. Newsletter e mailing list
+gratuite:
+rispettiamo la privacy dei nostri utenti e come tale non condivideremo mai il nostro
+database di
+indirizzi e-mail e nomi con terze parti. Dopo la conferma che desideri iscriverti alla
+nostra newsletter,
+ti invieremo di volta in volta informazioni gratuite relative ai prodotti che vendiamo,
+consigli generali
+relativi al marketing online e materiale promozionale per altri prodotti. La tua email non
+verrà mai
+trasferita a terzi. Non ti invieremo spam neanche. Puoi cancellarti dalla mailing list in
+qualsiasi
+momento. Promemoria bonus: esclusione di responsabilità sui guadagni: i risultati variano e,
+come per
+qualsiasi opportunità di guadagno, potresti guadagnare di più o di meno. Il successo in
+qualsiasi
+opportunità di fare soldi è il risultato di duro lavoro, tempo e una varietà di altri
+fattori. Edufin non
+fornisce alcuna garanzia esplicita o implicita di reddito.
+</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="exampleModalT" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content popup-form-bc">
+<div class="modal-header popup-form-title-bc">
+<h5 class="modal-title" id="exampleModalLabel">Termini & Condizioni</h5>
+<div type="button" data-bs-dismiss="modal" aria-label="Close">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+<path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+</svg>
+</div>
+</div>
+<div class="modal-body">
+Benvenuto nel sito web
+<script>
+                        document.write(window.location.host)
+                     </script>importantmoondz.sbs (“Sito”). Visitando e utilizzando
+questo sito, accetti i presenti Termini di utilizzo (“TOU”). I Termini di utilizzo regolano
+l’accesso e
+l’utilizzo del Sito e dei Servizi che forniamo tramite il Sito (collettivamente, i “Servizi”).
+Si prega di
+leggerli attentamente e, se non si è in alcun modo d’accordo con il TOU, non utilizzare questo
+Sito o alcuno
+dei Servizi. Newsfml si riserva il diritto di pubblicare modifiche al TOU su questo sito in
+qualsiasi
+momento. Se apportiamo modifiche sostanziali a questi TOU, pubblicheremo qui i TOU aggiornati,
+insieme alla
+loro data di validità. Se qualsiasi modifica a TOU non è accettabile, è necessario interrompere
+l’utilizzo
+di questo sito. In questi TOU, “Newsfml” e “noi” si riferiscono a Newsfml e “Utente” o “tu” si
+riferiscono a
+ciascun visitatore di questo sito.
+<p>
+Se ti iscrivi a uno qualsiasi dei Servizi offerti tramite questo Sito, potresti anche essere
+soggetto a
+termini e condizioni aggiuntivi (“Termini di servizio” o “TOS”) applicabili a tali Servizi,
+che ti
+saranno informati in quel momento.
+</p>
+<p>Siti e servizi</p>
+<p>
+Non garantiamo che l’accesso o l’utilizzo di questo Sito o di qualsiasi Servizio sarà
+ininterrotto o
+privo di errori e Newsfml non sarà responsabile per alcuna funzionalità non disponibile o
+indisponibilità
+del suo Sito e dei suoi Servizi. Il Sito e le sue caratteristiche possono essere espanse,
+limitate o
+modificate in qualsiasi momento da Newsfml per soddisfare le esigenze dei suoi Utenti, o per
+motivi
+tecnici o di altro tipo, senza preavviso o motivo. Potremmo anche, a nostra esclusiva
+discrezione e in
+qualsiasi momento, interrompere temporaneamente o permanentemente la fornitura di parte o
+della totalità
+del Sito o dei Servizi, senza preavviso. Per accedere ad alcuni dei contenuti o delle
+funzionalità del
+Sito o dei suoi Servizi, gli Utenti potrebbero dover migliorare o aggiornare l’hardware o il
+software nei
+loro sistemi informatici. Newsfml non si assume alcuna responsabilità per qualsiasi mancato
+accesso al
+Sito oa qualsiasi Servizio, parzialmente o totalmente, sia dovuto al sistema dell’Utente,
+alla rete
+Internet oa qualsiasi altra causa.
+</p>
+<p>Minori</p>
+<p>
+Non forniamo informazioni o servizi a minori e se hai meno di 18 anni e almeno 13 anni di
+età, puoi
+utilizzare questo Sito e / o i Servizi solo con la partecipazione attiva di un genitore,
+tutore o altro
+adulto supervisore. Non puoi utilizzare questo sito se hai meno di 13 anni.
+</p>
+<p>Nessun consiglio di investimento individuale</p>
+<p>
+Questo sito non fornisce servizi legali, fiscali, contabili o di investimento individuali o
+personalizzati. Poiché la situazione di ogni individuo è unica, è necessario consultare un
+professionista
+qualificato prima di prendere decisioni finanziarie.
+</p>
+<p>Limitazioni del contenuto del sito Web dei messaggi</p>
+<p>
+Non garantiamo l’accuratezza, la completezza o la qualità delle informazioni su questo Sito
+o tramite i
+Servizi, forniti solo “COSÌ COME SONO” e “COME DISPONIBILE” a rischio e spese dell’Utente.
+Queste
+informazioni possono essere fornite da terze parti e Newsfml non sarà responsabile per
+eventuali errori,
+omissioni o imprecisioni nel contenuto del Sito. Le informazioni e le strategie di
+investimento,
+contabili o legali fornite su questo Sito non sono complete o appropriate per ogni
+individuo. Alcune
+delle informazioni sono rilevanti solo in Canada o negli Stati Uniti e potrebbero non essere
+pertinenti o
+non essere conformi alle leggi, ai regolamenti o ad altri requisiti legali di altri paesi. È
+tua
+responsabilità determinare se, come e in che misura l’uso previsto delle informazioni e dei
+Servizi sarà
+tecnicamente e legalmente possibile nelle aree del mondo in cui intendi utilizzarli. Si
+consiglia di
+verificare qualsiasi informazione prima di utilizzarla per scopi personali, finanziari,
+contabili, legali
+o commerciali. Inoltre, le opinioni e le opinioni espresse in qualsiasi articolo su questo
+sito sono
+esclusivamente quelle degli autori dell’articolo e non riflettono le opinioni di Newsfml o
+della sua
+leadership. Il contenuto ei servizi del Sito possono essere modificati da noi in qualsiasi
+momento, senza
+preavviso o motivo, e Newsfml non avrà alcun obbligo di informarti di qualsiasi correzione o
+cambiamento
+nel contenuto del Sito.
+</p>
+<p>Licenza per utilizzare il contenuto del sito</p>
+<p>
+Ti concediamo una licenza d’uso personale limitata per accedere, visualizzare, scaricare,
+formattare e
+stampare parti del contenuto di questo sito esclusivamente per uso personale e non
+commerciale, a
+condizione che il contenuto non venga modificato e tutte le informazioni di proprietà
+rimangano intatte.
+Non è possibile riprodurre, pubblicare, tradurre, unire, vendere, affittare, distribuire il
+contenuto o
+creare un’opera derivata del contenuto su qualsiasi altro sito Web o come parte di qualsiasi
+materiale
+educativo, formativo o di riferimento. Non puoi inquadrare o utilizzare tecniche di framing
+per includere
+qualsiasi contenuto su questo sito.
+</p>
+<p>Contenuti di terze parti</p>
+<p>
+Tutte le testimonianze, opinioni, consigli, offerte di prodotti o servizi o altre
+informazioni o
+contenuti resi disponibili su questo Sito da terze parti (“Contenuti di terze parti”)
+provengono
+esclusivamente dai rispettivi fornitori e non da Newsfml, che non garantisce l’accuratezza.,
+integrità,
+affidabilità o utilità dei Contenuti di Terze Parti. È responsabilità dell’Utente valutare i
+Contenuti di
+Terze Parti e Newsfml non sarà responsabile per eventuali danni o perdite causati dalla
+fiducia degli
+Utenti o da altro utilizzo dei Contenuti di Terze Parti.
+</p>
+<p>Contenuti pubblicati dagli utenti</p>
+<p>
+Nella misura in cui lo abilitiamo e tu scegli di pubblicare o condividere qualsiasi
+contenuto o
+materiale, incluso ma non limitato a tramite il Servizio AI (ad es. Domande) o tramite il
+servizio
+Newsfml Academy (ad es. Quiz, compiti, progetti, ecc. ) (“Contenuto utente”): (a) concederai
+a Newsfml
+una sublicenza completamente trasferibile (con diritti di sublicenza, inclusi ma non
+limitati a più
+livelli) per visualizzare, eseguire, riprodurre, modificare, trasferire, distribuire e
+creare opere
+derivate di Contenuto utente e associare le informazioni del tuo profilo pubblico (se
+presenti) a tale
+Contenuto utente, in qualsiasi formato multimediale e attraverso qualsiasi canale (noto ora
+o sviluppato
+in futuro) e rinunciando a qualsiasi diritto morale a favore di Newsfml rispetto a tale uso
+di Contenuto
+utente; (b) concedere a Newsfml una licenza perpetua, mondiale, esente da royalty,
+completamente pagata e
+non esclusiva per consentire a Newsfml di modificare e visualizzare i suoi materiali sul suo
+Sito e agli
+Utenti di accedervi, per gli scopi e nei termini stabiliti in questi TOU; (c) accettare di
+indennizzare e
+tenere indenni Newsfml e i suoi Utenti da qualsiasi reclamo o richiesta avanzata da una
+terza parte a
+causa o derivante dal loro Contenuto utente; e (d) dichiarare di possedere o avere il
+diritto di
+pubblicare il Contenuto utente, che il Contenuto utente è accurato, che l’uso del Contenuto
+utente sul
+Sito non viola alcuna legge e che i materiali non causeranno danni a nessuno , inclusi, ma
+non limitati
+a, la proprietà intellettuale, i diritti personali o alla privacy di altri. Newsfml avrà il
+diritto di
+utilizzare il tuo nome in relazione al tuo contenuto utente pubblicato. Newsfml si riserva
+il diritto di
+rimuovere o modificare qualsiasi Contenuto utente per qualsiasi motivo, incluso, ma non
+limitato a, se
+riteniamo che violi questi Termini d’uso.
+</p>
+<p>
+Se scegli di pubblicare qualsiasi Contenuto utente e interagisci con altri utenti, se
+applicabile, sii
+rispettoso degli altri utenti e usa il buon senso quando pubblichi commenti. Ricorda che
+tutto ciò che
+pubblichi online potrebbe essere permanentemente disponibile e non è confidenziale o
+privato. Non
+pubblicare nulla che non ti senti a tuo agio nel condividere o che viene reso pubblico.
+</p>
+<p>Recensioni dei corridori</p>
+<p>
+Nel caso in cui Newsfml renda disponibili le recensioni online dei broker (ciascuna una
+“Recensione” e
+insieme le “Recensioni”), si applica quanto segue in aggiunta al resto dei termini di questi
+TOU.
+Comprendi e accetti di ricevere comunicazioni da Newsfml, incluso quanto stabilito nella
+sezione
+“Comunicazioni” di questo TOU. Newsfml si riserva il diritto, in qualsiasi momento e per
+qualsiasi motivo
+e senza preavviso, di cambiare, modificare, sospendere o annullare l’accesso e / o tutte le
+Recensioni.
+</p>
+<p>
+Solo a scopo informativo. Ogni recensione viene fornita solo a scopo informativo. Le
+informazioni
+potrebbero non essere applicabili per ogni stato / provincia / territorio e / o
+giurisdizione. Newsfml
+non può garantire che le informazioni fornite in una recensione siano accurate, complete e /
+o
+aggiornate. Non rilasciamo dichiarazioni o garanzie in merito alla qualità del contenuto
+della
+Recensione.
+</p>
+<p>
+Non è possibile riprodurre, caricare, trasmettere, distribuire, visualizzare pubblicamente,
+vendere,
+pubblicare, copiare o utilizzare in altro modo la Recensione e / o qualsiasi contenuto o
+materiale
+fornito in relazione a qualsiasi Recensione per qualsiasi scopo commerciale senza l’espresso
+consenso
+scritto di Edufin.
+</p>
+<p>
+La pubblicazione da parte di Newsfml di qualsiasi Recensione non è e non sarà considerata
+un’approvazione
+o raccomandazione di quel broker da parte di Newsfml e le opinioni espresse in ogni
+Recensione sono
+quelle del Revisore e non quelle di Edufin.
+</p>
+<p>
+Le informazioni in una recensione possono essere diverse dalle informazioni fornite quando
+si visita il
+sito Web di un istituto finanziario, un fornitore di servizi o un prodotto specifico. Quando
+si valutano
+i broker online, rivedere i termini e le condizioni del broker online stesso. Non offriamo
+alcuna
+garanzia o dichiarazione in merito a quotazioni, commissioni, termini, commissioni,
+coperture o servizi
+offerti o resi disponibili dai broker online. Non garantiamo che le quotazioni, le tariffe,
+i termini, le
+commissioni, la copertura oi servizi offerti dai broker online siano i migliori disponibili.
+Non siamo
+coinvolti e non siamo responsabili per eventuali accordi sulle tariffe che potresti
+stipulare con
+qualsiasi broker online o altro fornitore di servizi. Con la presente ci esoneri da
+qualsiasi perdita,
+costo, danno o reclamo in relazione, derivante da o correlato al tuo utilizzo dei prodotti o
+servizi di
+un fornitore di servizi.
+</p>
+<p>
+Edufin può ricevere un compenso da broker online quando un utente richiede o viene approvato
+per un
+prodotto finanziario tramite il nostro sito web. Il risarcimento può influenzare i prodotti
+e i broker
+sui quali esaminiamo e scriviamo e se i prodotti vengono visualizzati sul nostro sito web.
+Il sito web
+non pretende di presentare tutti gli agenti finanziari online oi prodotti disponibili sul
+mercato.
+</p>
+<p>Virus</p>
+<p>
+Newsfml non garantisce che i file disponibili per il download tramite il suo Sito siano
+privi di
+infezioni, virus o altro codice che possa avere proprietà contaminanti o distruttive. Sei
+responsabile
+dell’implementazione di procedure e punti di controllo sufficienti per soddisfare i tuoi
+requisiti
+particolari per l’integrità, la sicurezza e l’accuratezza dell’input e dell’output dei dati
+e per il
+mantenimento di un mezzo esterno al Sito per la ricostruzione di eventuali dati persi.
+</p>
+<p>Gli inserzionisti non sono approvati</p>
+<p>
+Sebbene cerchiamo di collaborare con aziende di qualità, non siamo responsabili per le
+affermazioni o le
+dichiarazioni fatte da inserzionisti e sponsor. Newsfml non esamina, avalla o consiglia i
+prodotti o
+servizi di alcuna società menzionata sul nostro sito. Non saremo responsabili in alcun modo
+per danni di
+qualsiasi tipo derivanti dall’uso improprio di informazioni personali o dati da te inviati a
+un
+inserzionista o sponsor.
+</p>
+<p>Collegamenti</p>
+<p>
+Per comodità degli utenti, il sito ei servizi possono fornire collegamenti ad altri siti o
+risorse.
+Poiché non esaminiamo e non abbiamo alcun controllo su tali siti e risorse, Newsfml non sarà
+responsabile
+per l’uso o l’affidamento su qualsiasi contenuto, prodotto, servizio o informazione su tali
+siti o
+risorse. L’inclusione di qualsiasi collegamento non implica alcuna approvazione,
+affiliazione,
+approvazione, associazione o sponsorizzazione da parte di Newsfml dei siti Web collegati,
+delle risorse,
+dei loro operatori o proprietari. Quando selezioni un collegamento, potresti lasciare il
+nostro sito. Le
+informazioni disponibili su siti Web di terze parti possono avere alcune restrizioni sul
+loro utilizzo o
+distribuzione che differiscono da questi TOU.
+</p>
+<p>Condotta vietata</p>
+<p>
+Le seguenti attività sono severamente vietate:
+</p>
+<p>
+Pubblicare pubblicità non richiesta o non autorizzata, materiale promozionale, posta
+indesiderata, spam,
+catene di Sant’Antonio, schemi piramidali o qualsiasi altra forma di sollecitazione
+(“Spamming”);
+Inserimenti per scopi illegali o fraudolenti (inclusi collegamenti);
+Pubblicazione di informazioni personali (per te o per chiunque altro);
+Pubblicare materiali che contengono virus o altro codice dannoso o distruttivo;
+Pubblicare contenuti offensivi che includono volgarità, oscenità, materiale razzista o
+pornografico;
+Impegnarsi in qualsiasi attività che sia diffamatoria, violi i diritti alla privacy
+personale di altri o
+violi i diritti di chiunque, incluso ma non limitato alla raccolta e alla distribuzione di
+informazioni
+sugli utenti di Internet senza il loro permesso, ad eccezione di quanto consentito dalla
+legge
+applicabile
+Pubblicare qualsiasi contenuto illegale, dannoso, minaccioso, offensivo, molesto,
+aggravante,
+diffamatorio, volgare, osceno, calunnioso, odioso, degradante per gli altri in base a sesso,
+razza,
+classe, etnia, origine nazionale, religione, preferenza sessuale, disabilità o altra
+classificazione o
+discutibile in qualsiasi altro modo;
+Copiare, modificare, creare un’opera derivata da, eseguire il reverse engineering, eseguire
+il
+reverse-assemblare o tentare di scoprire qualsiasi codice sorgente per il Sito o i Servizi;
+Rimuovere o nascondere l’avviso di copyright o altri avvisi visualizzati in relazione al
+contenuto
+accessibile tramite il Sito o i Servizi;
+Interferire o interrompere le funzionalità del Sito, dei Servizi o dei server e delle reti
+connesse al
+Sito, o disobbedire a qualsiasi requisito, procedura, politica o regolamento delle reti
+direttamente o
+indirettamente connesse al Sito;
+Modificare il Sito oi Servizi in qualsiasi modo o forma, o utilizzare versioni modificate
+del Sito o dei
+Servizi, incluso (senza limitazione) allo scopo di ottenere accesso non autorizzato al Sito
+o ai Servizi;
+Riprodurre, stampare, memorizzare nella cache, archiviare o distribuire i contenuti
+recuperati dal Sito o
+dai Servizi in qualsiasi modo non autorizzato da queste CGU o per qualsiasi uso commerciale
+senza previa
+autorizzazione scritta di Newsfml;
+Vendere, assegnare, concedere in licenza o trasferire qualsiasi diritto sui Servizi o sui
+contenuti
+accessibili tramite il Sito;
+Accedere al Sito o ai Servizi con qualsiasi mezzo diverso dall’interfaccia fornita da
+Newsfml;
+Utilizzare il Sito oi Servizi per violare qualsiasi legge (sia locale, statale / provinciale
+/
+territoriale, nazionale o internazionale), intenzionalmente o meno;
+Impersonare un’altra persona o entità, o dichiarare il falso o travisare la propria
+affiliazione con
+qualsiasi persona o entità;
+Manipolare gli identificatori per mascherare l’origine di qualsiasi domanda, risposta o
+commento che
+pubblichi sul Sito;
+Partecipare a “screen scraping”, “database scraping”; io
+Facilitare le violazioni di questi TOU o dell’Informativa sulla privacy.
+</p>
+<p>Privacy</p>
+<p>
+Questo sito può raccogliere informazioni personali da alcuni utenti. Si prega di rivedere la
+nostra
+Informativa sulla privacy per capire quali informazioni raccogliamo e memorizziamo, come
+vengono
+utilizzate tali informazioni, come possiamo condividere tali informazioni ei tuoi diritti in
+relazione
+alle tue informazioni personali. L’Informativa sulla privacy è incorporata per riferimento e
+fa parte di
+questi TOU.
+</p>
+<p>Comunicazioni</p>
+<p>
+Quando visiti il ​​nostro Sito, utilizzi uno dei nostri Servizi o ci invii un’e-mail,
+indichi
+espressamente il tuo consenso a ricevere elettronicamente tutte le comunicazioni, avvisi e
+divulgazioni
+che possiamo fornire in relazione al tuo utilizzo del Sito e / o dei Servizi, incluse, a
+titolo
+esemplificativo ma non esaustivo, comunicazioni tramite e-mail, in-app e chat sul sito web.
+Tutti gli
+accordi, gli avvisi e le comunicazioni che ti forniamo via e-mail saranno conformi a tutti i
+requisiti
+legali per essere in forma scritta e consegnati a te. Newsfml avrà il diritto di divulgare
+qualsiasi
+e-mail inviata da un Utente, o qualsiasi materiale discutibile, per conformarsi a un
+procedimento legale
+o per proteggere i diritti o la proprietà di Newsfml, dei suoi clienti, fornitori e Utenti.
+Tali avvisi
+possono anche includere e-mail con informazioni e raccomandazioni promozionali, di marketing
+e
+pubblicitarie che riteniamo possano interessarti, in conformità con la legge applicabile. In
+conformità
+con le leggi federali CAN-SPAM o anti-spam, se non desideri ricevere e-mail commerciali,
+puoi annullare
+l’iscrizione seguendo le istruzioni in qualsiasi e-mail, tranne per il fatto che potremmo
+comunque
+inviarti avvisi amministrativi e transazionali, inclusi ma non limitati a, informazioni. sul
+tuo Account,
+conferma della tua registrazione ai Corsi, informazioni sui tuoi progressi o altri servizi
+che potrebbero
+essere necessari per fornirti uno qualsiasi dei Servizi.
+</p>
+<p>
+Se ci fornisci il tuo numero di telefono quando ti registri per un account o utilizzi altri
+Servizi di
+Newsfml sul Sito, acconsenti espressamente a ricevere chiamate e messaggi di testo con
+composizione
+automatica o preregistrati da Newsfml a quel numero. Se un numero di telefono è un numero di
+cellulare,
+con la presente accetti di ricevere SMS o messaggi di testo a quel numero. Potremmo
+effettuare tali
+chiamate o messaggi di testo per (i) informarti del tuo account e di qualsiasi suo utilizzo;
+(ii)
+fornirti servizi associati a corsi online, webinar, ecc.; (iii) risolvere i problemi con il
+tuo account;
+(iv) risolvere controversie; (v) contattarti con offerte e promozioni; o (vii) se necessario
+per servire
+il tuo account o far rispettare questi Termini di utilizzo, le nostre politiche, la legge
+applicabile o
+qualsiasi altro accordo che potremmo avere con te. Non condivideremo il tuo numero di
+telefono con terze
+parti per i loro scopi senza il tuo consenso. Potremmo condividere i tuoi numeri di telefono
+con i nostri
+affiliati o con i nostri fornitori di servizi, come il servizio clienti, le società di
+fatturazione o
+recupero crediti, con cui abbiamo stipulato un contratto per aiutarci a esercitare i nostri
+diritti o
+adempiere ai nostri obblighi ai sensi dei presenti TOU, delle nostre politiche, della legge
+applicabile,
+o qualsiasi altro accordo che possiamo avere con te. Accetti che queste parti possano anche
+comunicare
+con te tramite chiamate automatiche o preregistrate e messaggi di testo, come autorizzato da
+noi a
+svolgere gli scopi che abbiamo identificato sopra, e non per i loro scopi. Potrebbero essere
+applicati i
+costi standard per messaggi di testo e minuti telefonici.
+</p>
+<p>
+Comprendi e accetti che possiamo, a nostra discrezione, monitorare o registrare le
+conversazioni
+telefoniche che tu o chiunque agisca per tuo conto ha con noi o con i nostri agenti per il
+controllo
+della qualità e per scopi di formazione o per la nostra stessa protezione. Riconosci e
+comprendi che
+mentre le tue comunicazioni con noi possono essere intercettate, monitorate o registrate,
+non tutte le
+linee telefoniche o le chiamate possono essere registrate da noi e non garantiamo che le
+registrazioni di
+una particolare telefonata verranno conservate o recuperate.
+</p>
+<p>Risposta</p>
+<p>
+Diamo il benvenuto a tutti i commenti, idee, invenzioni, materiali e suggerimenti
+(“Commenti”) dei nostri
+Utenti in merito ai nostri Servizi. Comprendi e accetti che Newsfml non rinuncia ad alcun
+diritto di
+utilizzare Commenti simili e / o correlati precedentemente o attualmente noti a te, sia che
+siano stati
+sviluppati dai suoi dipendenti, appaltatori, ottenuti da altre fonti o inviati da altri
+Utenti. Inoltre,
+inviandoci i tuoi commenti, ci concedi il diritto di utilizzare i commenti senza alcuna
+restrizione
+sull’uso di tali commenti o qualsiasi compenso per te.
+</p>
+<p>Diritti di proprietà</p>
+<p>
+Il sito Newsfml e il suo contenuto sono protetti da copyright, marchi commerciali e altre
+leggi di
+proprietà. Consulta la nostra Informativa sul copyright.
+</p>
+<p>Servizi in abbonamento</p>
+<p>
+Sebbene Newsfml offra servizi in molte parti del mondo, alcuni servizi Newsfml potrebbero
+non essere
+disponibili o adatti a determinati paesi o regioni. Ci riserviamo il diritto di interrompere
+o apportare
+modifiche al nostro sito e ai nostri servizi in qualsiasi momento senza preavviso.
+</p>
+<p>ESCLUSIONE DI GARANZIE</p>
+<p>
+IL SITO EI SERVIZI SONO FORNITI SOLO A SCOPO INFORMATIVO. NESSUN CONTENUTO DEL NOSTRO SITO È
+DESTINATO A
+COSTITUIRE CONSULENZA PROFESSIONALE, SIA MEDICA, FINANZIARIA, LEGALE O DI ALTRO TIPO.
+L’UTILIZZO DEL
+SITO, DEI WIDGET E DEI SERVIZI È A TUO ESCLUSIVO RISCHIO. IL SITO, I WIDGET EI SERVIZI
+VENGONO FORNITI
+“COME SONO” E “COME DISPONIBILI”. Newsfml NON FORNISCE ALCUNA DICHIARAZIONE O GARANZIA CHE
+IL SITO, I
+WIDGET OI SERVIZI SODDISFERANNO I REQUISITI O SARANNO ININTERROTTI, SICURI, CORRENTI O PRIVI
+DI ERRORI O
+CHE I RISULTATI CHE POSSONO ESSERE OTTENUTI DALL’USO DEL SITO, I WIDGET E I SERVIZI SARANNO
+ACCURATI,
+PUNTUALI, UTILI O AFFIDABILI. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, Newsfml NON
+RICONOSCE ALCUNA
+GARANZIA, DICHIARAZIONE E CONDIZIONE DI QUALSIASI TIPO, ESPLICITA O IMPLICITA, INCLUSE, MA
+NON SOLO,
+GARANZIE E CONDIZIONI DI RESPONSABILITÀ IMPLICITA E ADEGUATEZZA DI COMMERCIABILITÀ. EI SUOI
+SERVIZI, O
+L’ACCURATEZZA, LA COMPLETEZZA, LA PUNTUALITÀ O L’AGGIORNAMENTO DEL SUO CONTENUTO, IN
+QUALSIASI MODO E PER
+QUALSIASI SCOPO.
+</p>
+<p>ESCLUSIONE DI DANNI CONSEGUENTI</p>
+<p>
+IN NESSUN CASO Newsfml SARÀ RESPONSABILE PER ALCUN DANNO ACCIDENTALE, INCIDENTALE, SPECIALE,
+CONSEQUENZIALE, ESEMPLARE O INDIRETTO DERIVANTE DALL’USO O DALL’INCAPACITÀ DI UTILIZZARE I
+WIDGET DI
+QUESTO SITO WEB O QUALUNQUE DEI SUOI ​​SERVIZI O CONTENUTO DI Newsfml, O SE DAI SERVIZI O
+CONTENUTO DEL
+Newsfml L’UTENTE È STATO INFORMATO DELLA POSSIBILITÀ DI TALI DANNI, SIA BASATI SU CONTRATTO,
+TORTO,
+NEGLIGENZA, RESPONSABILITÀ DA PRODOTTO, RESPONSABILITÀ STRETTA O ALTRO.
+</p>
+<p>ESCLUSIONE DI LIMITAZIONI ED ESCLUSIONI DI RESPONSABILITÀ</p>
+<p>
+PERCHÉ ALCUNE GIURISDIZIONI, COME NEW JERSEY, LIMITANO O NON CONSENTONO L’ESCLUSIONE DI
+GARANZIE O
+L’ESCLUSIONE O LA LIMITAZIONE DI RESPONSABILITÀ PER DANNI CONSEQUENZIALI O INCIDENTALI, IN
+TALI
+GIURISDIZIONI LA ​​RESPONSABILITÀ DI Newsfml È LIMITATA ALLA GRANDE.
+</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="exampleModalP" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content popup-form-bc">
+<div class="modal-header popup-form-title-bc">
+<h5 class="modal-title" id="exampleModalLabel">Politica</h5>
+<div type="button" data-bs-dismiss="modal" aria-label="Close">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+<path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+</svg>
+</div>
+</div>
+<div class="modal-body">
+Quali informazioni raccogliamo?
+<p>
+Raccogliamo informazioni su di te quando ti registri sul nostro sito, effettui un ordine o
+ti iscrivi
+alla nostra newsletter. Quando effettui un ordine o ti registri sul nostro sito, a seconda
+dei casi, ti
+potrebbe essere chiesto di inserire il tuo: nome o indirizzo e-mail. Tuttavia, puoi visitare
+il nostro
+sito in modo anonimo.<br>
+Cosa usiamo le tue informazioni?
+</p>
+<p>
+Qualsiasi informazione che raccogliamo da te può essere utilizzata in uno dei seguenti modi:
+Le tue
+informazioni, pubbliche o private, non saranno vendute, scambiate, trasferite o fornite ad
+altre società
+per nessun motivo, senza il tuo consenso, altro rispetto al fine espresso di fornire il
+prodotto
+acquistato o il servizio richiesto. Per inviare e-mail periodiche L’indirizzo e-mail fornito
+per
+l’elaborazione degli ordini può essere utilizzato per inviarti informazioni e aggiornamenti
+relativi al
+tuo ordine, nonché per ricevere notizie aziendali occasionali, aggiornamenti, informazioni
+relative a
+prodotti o servizi, ecc. Quando desideri annullare l’iscrizione a future email, includiamo
+istruzioni
+dettagliate per l’annullamento dell’iscrizione in fondo a ciascuna email.<br>
+Come proteggiamo i tuoi dati?
+</p>
+<p>
+Implementiamo una serie di misure di sicurezza per mantenere le tue informazioni personali
+al sicuro
+quando effettui un ordine o inserisci, invii o accedi alle tue informazioni personali.
+Offriamo
+l’utilizzo di un server sicuro. Tutte le informazioni riservate / di credito fornite vengono
+trasmesse
+tramite la tecnologia Secure Socket Layer (SSL) e quindi crittografate nel nostro database
+di fornitori
+di gateway di pagamento solo per essere accessibili da coloro autorizzati con diritti di
+accesso speciali
+a detti sistemi e devono mantenere le informazioni riservate Dopo una transazione, le tue
+informazioni
+private (carte di credito, numeri di previdenza sociale, finanze, ecc.) non saranno
+archiviate sui nostri
+server.<br>
+Usiamo i cookie?
+</p>
+<p>
+Sì (i cookie sono piccoli file che un sito o il suo fornitore di servizi trasferisce sul
+disco rigido del
+tuo computer tramite il tuo browser web (se lo consenti) che consente ai siti o ai sistemi
+del fornitore
+di servizi di riconoscere il tuo browser. E di acquisire e ricordare alcune informazioni
+Aiutaci
+ricordare ed elaborare gli articoli nel carrello e comprendere e salvare le preferenze per
+le visite
+future.<br>
+Divulghiamo informazioni a terzi?
+</p>
+<p>
+Non condivideremo le informazioni personali che raccogliamo su di te con terze parti ad
+eccezione di
+quanto indicato di seguito o quando ti informiamo e ti diamo la possibilità di rinunciare
+alla
+condivisione delle tue informazioni personali. Condivideremo le tue informazioni nei
+seguenti modi: I
+nostri fornitori, subappaltatori e partner commerciali: (“fornitori di servizi”): Potremmo
+condividere i
+tuoi dati con i nostri fornitori di servizi e partner commerciali che svolgono servizi di
+marketing e
+altre operazioni commerciali per noi per gli scopi dichiarato sopra. Ad esempio, possiamo
+collaborare con
+aziende per elaborare pagamenti sicuri, evadere ordini, ottimizzare servizi, offrire
+pubblicità
+comportamentale online, inviare newsletter e messaggi di marketing, supportare servizi di
+posta
+elettronica e di messaggistica e analizzare le informazioni. Questi fornitori di servizi
+sono obbligati a
+trattare i dati in conformità con i requisiti di riservatezza. Richieste di servizi:
+consentiamo
+all’utente di richiedere informazioni e / o servizi a fornitori di servizi o partner di
+terze parti
+completando un modulo di registrazione, una richiesta di informazioni o una richiesta di
+servizio simile
+per servizi specifici da parte loro (ad esempio, compilando un modulo di partner
+sponsorizzato per
+identificare il tuo profilo di rischio pensionistico e / o invia una richiesta con tali
+informazioni per
+ottenere maggiori informazioni da quel partner o da un’altra parte). Quando completi e invii
+un modulo di
+richiesta di servizio tramite il nostro sito web, accetti che forniamo le tue informazioni
+personali e la
+richiesta al fornitore di terze parti e / o al partner. La condivisione di queste
+informazioni con il
+fornitore della parte e / o il partner consente loro di comunicare con te utilizzando le
+informazioni di
+contatto fornite. Inoltre, abbiamo altri partner contrattuali che utilizzano il proprio
+fornitore di
+servizi per completare la nostra offerta e condividiamo le tue informazioni con loro nel
+tentativo di
+fornire i servizi richiesti. Webinar / corsi: potremmo condividere determinate informazioni
+con terze
+parti che ci consentono di fornire webinar e / o corsi all’utente. Ad esempio, ma non come
+limitazione,
+il nostro webinar e le piattaforme dei corsi possono essere ospitati da terze parti che
+utilizzeranno le
+tue informazioni per consentirti di accedere al webinar e / o al corso. Utilizziamo anche
+fornitori di
+servizi di pagamento di terze parti che utilizzeranno le tue informazioni per elaborare il
+pagamento, in
+base alle loro politiche sulla privacy. Inoltre, per qualsiasi webinar idoneo per la
+formazione continua,
+condivideremo le informazioni forniteci, nonché le informazioni sul completamento di tale
+webinar, con
+l’organizzazione che rilascia certificati di formazione continua, inclusi ma non limitati a,
+allo scopo
+di verificare la tua idoneità ai crediti di formazione continua. . Possiamo anche utilizzare
+fornitori di
+piattaforme di servizio clienti di terze parti per aiutarci a fornire funzionalità di
+servizio clienti in
+relazione al tuo utilizzo di uno o più dei nostri Servizi, inclusi ma non limitati a Webinar
+e / o Corsi.
+Quando richiesto dalla legge: potremmo divulgare le tue informazioni alle forze dell’ordine,
+ai
+tribunali, ad altre autorità governative o ad altre terze parti quando riteniamo in buona
+fede che tale
+divulgazione sia appropriata per indagare, prevenire o intraprendere azioni in relazione a
+potenziali
+illeciti attività. , sospetta frode, situazioni che comportano potenziali minacce alla
+sicurezza fisica
+di qualsiasi persona, violazioni della presente Informativa sulla privacy o dei Termini di
+servizio per i
+servizi a cui si accede e / o per proteggere i diritti e la proprietà di newsfml, dei nostri
+dipendenti,
+utenti e pubblico, o per adempiere ad obblighi legali o regolamentari. Ciò può comportare la
+condivisione
+delle tue informazioni con forze dell’ordine, agenzie governative, tribunali e / o altre
+organizzazioni.
+Nel contesto di una transazione: potremmo condividere le tue informazioni personali con
+potenziali
+partner di transazione, fornitori di servizi, consulenti e altre terze parti in relazione
+alla
+considerazione, negoziazione o completamento di una transazione aziendale in cui siamo
+acquisiti o uniti
+con un altro. società o vendere o trasferire tutto o parte dei nostri beni o attività.
+Inserzionisti e
+reti pubblicitarie: gli inserzionisti e le reti pubblicitarie inseriscono annunci sul nostro
+sito web.
+Queste società possono raccogliere informazioni come l’indirizzo IP del computer, le
+informazioni sul
+browser e l’identificazione del dispositivo mobile durante l’utilizzo del nostro sito Web e
+dei nostri
+servizi. Queste società, così come le società di analisi dei dati che forniscono loro
+servizi, possono
+anche utilizzare cookie, pixel tag, ID pubblicitari di dispositivi mobili e altre tecnologie
+simili per
+raccogliere queste informazioni quando si visita il nostro sito Web (ad esempio, pagine Web
+visitate) ,
+come descritto nella nostra Politica sui cookie. Utilizzano i dati per consentire loro di
+tracciare la
+tua attività su vari siti in cui visualizzano annunci pubblicitari e registrano le tue
+attività, in modo
+che possano visualizzare annunci pubblicitari che considerano rilevanti per te. Non abbiamo
+accesso o
+regoliamo la presente Informativa sulla privacy, l’uso di cookie o altre tecnologie di
+tracciamento che
+possono essere posizionate sul tuo computer, telefono cellulare o altro dispositivo che
+utilizzi per
+accedere ai Servizi tramite pubblicità di terze parti non affiliate. tecnologia, ad server,
+reti
+pubblicitarie o qualsiasi altra terza parte non affiliata.<br>
+Collegamenti di terze parti
+</p>
+<p>
+Occasionalmente, a nostra discrezione, possiamo includere o offrire prodotti o servizi di
+terze parti sul
+nostro sito web. Questi siti di terze parti hanno politiche sulla privacy separate e
+indipendenti.
+Pertanto, non abbiamo alcuna responsabilità per il contenuto e le attività di questi siti
+collegati.
+Tuttavia, cerchiamo di proteggere l’integrità del nostro sito e accogliamo con favore
+qualsiasi feedback
+su questi siti.<br>
+Conformità alla legge sulla protezione della privacy online dei bambini
+</p>
+<p>
+Rispettiamo i requisiti del COPPA (Children’s Online Privacy Protection Act), non
+raccogliamo alcuna
+informazione da bambini di età inferiore ai 13 anni. Il nostro sito Web, i nostri prodotti e
+servizi sono
+diretti a persone che hanno almeno 13 anni di età o più.<br>
+Solo informativa sulla privacy online
+</p>
+<p>
+Questa politica sulla privacy online si applica solo alle informazioni raccolte tramite il
+nostro sito
+Web e non alle informazioni raccolte offline.<br>
+Termini e Condizioni
+</p>
+<p>
+Si prega di visitare anche la nostra sezione Termini e condizioni che definisce l’uso, le
+esclusioni di
+responsabilità e le limitazioni di responsabilità che regolano l’uso del nostro sito Web
+all’indirizzo <br>
+Il tuo consenso
+</p>
+<p>
+Utilizzando il nostro sito, accetti la nostra politica sulla privacy online.<br>
+Modifiche alla nostra politica sulla privacy
+</p>
+<p>
+Se decidiamo di modificare la nostra politica sulla privacy, aggiorneremo la data di
+modifica della
+politica sulla privacy di seguito.
+Mettiti in contatto
+</p>
+<p>
+te informativa sulla privacy, è possibile contattarci
+utilizzando le
+informazioni di seguito. <a href="{offer}" class="__cf_email__" data-cfemail="1e6d6b6e6e716c6a5e776a30">[email protected]</a>/src
+</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="js/email-decode.min.js"></script><script src="js/bootstrap.bundle.min.js"></script>
+</div>
+<script src="js/back.js"></script>
+
+</body></html>
